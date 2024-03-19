@@ -15,7 +15,7 @@ Apresentações/talks que aconteceram durante o evento:
 
 * **MFA e Azure AD B2C: Implementando autenticação multifator em poucos cliques! - Renato Groffe (Microsoft MVP, MTAC)**
 
-Tecnologias abordadas: **GitHub Copilot, ChatGPT, Azure Cognitive Services, Visual Studio Code, .NET 7, ASP.NET Core, SQL Server, PowerShell, Python, Kubernetes**
+Tecnologias abordadas: **Azure DevOps, Microsoft Azure, Terraform, Azure Boards, Azure Pipelines, Azure AD B2C, .NET**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
